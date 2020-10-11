@@ -1,0 +1,110 @@
+@media (max-width: 1044px) {
+
+    .header {
+        margin-bottom: 70px;
+    }
+
+    .wrap {
+        margin-bottom: 120px;
+    }
+
+    .banner-inner {
+        max-width: 49%;
+    }
+
+    .banner-title {
+        font-size: 63px;
+    }
+
+    .banner-form {
+        width: 48%;
+        max-width: 550px;
+        padding: 20px 23px 20px 24px;
+    }
+
+    .title-services {
+        margin: 0 0 50px 0;
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .service-text {
+        max-width: 100%;
+    }
+
+    .service {
+        width: 50%;
+        padding: 0 15px 25px 15px;
+    }
+
+    .services {
+        flex-wrap: wrap;
+    }
+
+    .story-button {
+        margin-right: 30px;
+    }
+
+    .story-link {
+        font-size: 20px;
+        padding: 20px 35px 19px 38px;
+    }
+
+    .section-price {
+        padding: 50px 0 10px 0;
+    }
+
+    .cards-prices-inner {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .card-price {
+
+        width: 45%;
+        margin: 0 20px 15px 0;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+
+    .testimonial-gallery {
+        padding: 60px 0 40px 0;
+    }
+
+    .section-reviews {
+        padding-left: 0;
+    }
+
+    .reviews-gallery-inner {
+        flex-wrap: wrap;
+    }
+
+    .review-text {
+        max-width: 416px;
+    }
+
+    .review {
+        margin: 0 auto;   
+    }
+    .photo-reviewer {
+        top: 17%;
+        left: 89%;
+    }
+
+    .section-reviews {
+        margin-bottom: 20px;
+    }
+
+    .gallery {
+        margin: 0 auto;
+        padding-left: 0;
+        margin-bottom: 45px;
+    }    
+
+    .gallery-pic {
+        max-width: 415px;
+        margin: 25px auto 20px auto;
+    }
+}
